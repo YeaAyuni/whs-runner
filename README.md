@@ -1,2 +1,2 @@
 # Whs-Runner
-[whisper by openAI](https://github.com/openai/whisper) but in Colab
+[whisper by openAI](https://github.com/openai/whisper) but in Google Colab
